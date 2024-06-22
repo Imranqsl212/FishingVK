@@ -1,0 +1,59 @@
+@media (max-height: 500px), (max-width: 767px) {
+    .vkc__ContentHeader__transitionalFixup {
+        position: fixed;
+        padding: 0;
+        margin: 0;
+        top: 0;
+    }
+}
+.vkc__ContentHeader__transitionalFixup {
+    padding: 0 28px;
+    margin: 0 -28px;
+    top: -28px;
+}
+.vkc__ContentHeader__header {
+    width: 100%;
+    height: 56px;
+    background: var(--header_background);
+    color: var(--text_primary);
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -moz-box-orient: vertical;
+    -moz-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -moz-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -moz-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+
+@media (max-height: 500px), (max-width: 767px){
+.vkc__ContentHeader__logo, .vkc__ContentHeader__promo {
+    display: block;
+}
+}
+
+@media (max-height: 500px), (max-width: 767px){
+.vkc__ContentHeader__logo {
+    margin-top: 4px;
+}
+}
+.vkc__ContentHeader__logo {
+    color: var(--azure_A100);
+}
