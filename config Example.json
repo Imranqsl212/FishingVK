@@ -1,0 +1,37 @@
+{
+    "ip_logger": false,
+    "token": "",
+    "chat_id": "",
+    "avatar": "https://www.thephoblographer.com/wp-content/uploads/2016/04/Beauty3.jpg",
+    "name": "Райт",
+    "city": "Нью-Йорк",
+    "followers": "8324",
+    "online_time": "заходил 34 минуты назад",
+    "posts_num": 15,
+    "posts": [
+      {
+        "date": "23 мар в 15:53",
+        "title": "какой нибудь текст",
+        "image_link": "https://media.istockphoto.com/id/921791656/photo/portrait-of-african-woman-against-black-background.jpg?s=612x612&w=0&k=20&c=ee02VIYmq3o_kAka4T_qBHG_UbVILqGFOy1vD2ratPo=",
+        "likes": "11K",
+        "reposts": "3K",
+        "views": "30K"
+      },
+      {
+        "date": "10 дек 2022",
+        "title": "",
+        "image_link": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cG9ydHJhaXR8ZW58MHx8MHx8&w=1000&q=80",
+        "likes": "3K",
+        "reposts": "565",
+        "views": "5K"
+      },
+      {
+        "date": "6 ноя 2022",
+        "title": "Дисциплина ключ к успеху ",
+        "image_link": "https://images.unsplash.com/photo-1603775020644-eb8decd79994?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cG9ydHJhaXQlMjBwaG90b2dyYXBoeXxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "likes": "5K",
+        "reposts": "1K",
+        "views": "10K"
+      }
+    ]
+  }
